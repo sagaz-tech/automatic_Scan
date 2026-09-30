@@ -4,7 +4,7 @@ cat > README.md << 'EOF'
 Projeto educacional de Segurança Ofensiva para varredura de portas e auditoria de serviços em ambiente controlado.
 
 ### 🎯 Objetivo
-Simular uma auditoria de segurança em rede local, identificando portas abertas, serviços e versões na máquina alvo Metasploitable 2 (192.168.56.101), gerando um relatório para análise posterior de vetores de ataque.
+Simular uma auditoria de segurança em rede local, identificando portas abertas, serviços e versões na máquina alvo Metasploitable 2, gerando um relatório para análise posterior de vetores de ataque.
 
 ### 🛠️ Tecnologias
 - Python 3
