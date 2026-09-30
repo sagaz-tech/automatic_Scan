@@ -1,7 +1,7 @@
 import nmap
 from datetime import datetime
 
-alvo = "192.168.56.101" # IP alvo
+alvo = "" # IP alvo
 nm = nmap.PortScanner()
 
 print(f"[*] varrendo {alvo}...")
